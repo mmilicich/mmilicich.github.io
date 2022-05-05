@@ -1,5 +1,7 @@
 # Mariana Milicich
 
+📧 mmilicich at dc.uba.ar
+
 ### Estudiante de [Ciencias de la Computación](dc.uba.ar) en [FCEyN](exactas.uba.ar), [UBA](uba.ar)
 
 ### Ayudante de segunda del Departamento de Computación
