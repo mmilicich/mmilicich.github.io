@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
-#title: Mariana Milicich
+
+# Configuración general del sitio:
+title: Mariana Milicich
+# logo: # filename of a logo image that has been placed into your images directory
+
+email: mmilicich at dc.uba.ar
