@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
 
 # Configuración general del sitio:
-title: Mariana Milicich
+title: false
 # logo: # filename of a logo image that has been placed into your images directory
-
-email: mmilicich at dc.uba.ar
+# email: mmilicich at dc.uba.ar
 
 # Para que no muestre la leyenda de "View my GitHub profile":
 github:
