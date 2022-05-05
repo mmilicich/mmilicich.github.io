@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 # Configuración general del sitio:
-title: false
+title: null
 # logo: # filename of a logo image that has been placed into your images directory
 # email: mmilicich at dc.uba.ar
 
