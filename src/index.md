@@ -1,5 +1,5 @@
 ---
-title: Basicpage template
+title: Mariana Milicich
 author: Mariana Milicich
 shortbio: Research Fellow @ University of Tartu, Estonia
 description-meta: Research Fellow University of Tartu
