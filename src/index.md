@@ -68,7 +68,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 ```
 
 ``` json {.paper}
-"title": "Semantics of a Relational λ-Calculus",
+"title": "Semantics of a Relational {λ}-Calculus",
 "authors": "Pablo Barenbaum, Federico Lochbaum, Mariana Milicich",
 "venue": "Theoretical Aspects of Computing - {ICTAC} 2020 - 17th International Colloquium, Macau, China, November 30 - December 4, 2020",
 "year": "2020",
@@ -96,14 +96,6 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "title": "Extending the Quantitative Toolset of Higher-Order Programming Languages (PhD thesis)",
 "year": "16-Oct-2025",
 "url": "https://theses.hal.science/tel-05599942"
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
 ```
 
 ``` json {.paper}
