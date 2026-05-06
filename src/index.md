@@ -11,7 +11,7 @@ picture-round: false
 side-by-side: true
 disable-dark-mode: true
 pronouns: she/her
-og-picture: https://basicpage.github.io/img/profile.png
+og-picture: img/mapossum.png
 orcid: 0009-0007-5722-2607
 dblp: https://dblp.org/pid/275/3513.html
 scholar: https://scholar.google.com/citations?user=H-dALP8AAAAJ&hl=es&oi=ao
@@ -68,7 +68,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 ```
 
 ``` json {.paper}
-"title": "Semantics of a Relational {λ}-Calculus",
+"title": "Semantics of a Relational λ-Calculus",
 "authors": "Pablo Barenbaum, Federico Lochbaum, Mariana Milicich",
 "venue": "Theoretical Aspects of Computing - ICTAC 2020 - 17th International Colloquium, Macau, China, November 30 - December 4, 2020",
 "year": "2020",
@@ -86,7 +86,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "year": "2025",
 "url": "https://www.irif.fr/_media/users/milicich/technicalnotelcbv.pdf",
 "files": [
-  { "text": "Extended Version", "type": "pdf", "src": "technicalnotelcbv.pdf" }
+  { "text": "PDF", "type": "pdf", "src": "technicalnotelcbv.pdf" }
 ]
 ```
 
@@ -99,7 +99,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 ```
 
 ``` json {.paper}
-"title": "Semántica denotacional para un cálculo-{λ} relacional (Master's thesis, in Spanish)",
+"title": "Semántica denotacional para un cálculo-λ relacional (Master's thesis, in Spanish)",
 "year": "16-Oct-2025",
 "url": "https://bibliotecadigital.exactas.uba.ar/collection/seminario/document/seminario_nCOM000492_Milicich",
 "files": [
@@ -107,7 +107,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 ]
 ```
 
-## Talks
+### Talks
 
 **Useful Call-by-Value**
 
@@ -127,7 +127,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 - 09-Jul-2024 - [ITRS-11](https://itrs2024.di.unito.it/) - Tallinn, Estonia - online presentation - [[abstract]](https://itrs2024.di.unito.it/ITRS24_paper_5.pdf) [[slides]](https://itrs2024.di.unito.it/ITRS24_slides_Milicich.pdf) [[video]](https://cs.ioc.ee/itrs24/videos/milicich-video.mp4)
 - 24-Jun-2024 - [PPS Days (2024)](https://www.irif.fr/rencontres/pps2024/index) (IRIF) - Paris, France
 
-** Hybrid Intersection Types for PCF **
+** Hybrid Intersection Types for PCF**
 
 - 28-May-2024 - [LPAR-25](https://easychair.org/smart-program/LPAR2024/) - Balaclava, Mauritius - [[slides]](https://www.irif.fr/_media/users/milicich/milicich_lpar_slides.pdf)
 - 29-Jul-2025 - [GT Syntax Meets Semantics](https://www.irif.fr/en/seminaires/sms/index) (IRIF) - Paris, France
