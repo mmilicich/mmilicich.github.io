@@ -70,9 +70,9 @@ My research interests include the λ-calculus and logic, type theory, and semant
 ``` json {.paper}
 "title": "Semantics of a Relational {λ}-Calculus",
 "authors": "Pablo Barenbaum, Federico Lochbaum, Mariana Milicich",
-"venue": "Theoretical Aspects of Computing - {ICTAC} 2020 - 17th International Colloquium, Macau, China, November 30 - December 4, 2020",
+"venue": "Theoretical Aspects of Computing - ICTAC 2020 - 17th International Colloquium, Macau, China, November 30 - December 4, 2020",
 "year": "2020",
-"url": "url": "https://doi.org/10.1007/978-3-030-64276-1_13",
+"url": "https://doi.org/10.1007/978-3-030-64276-1_13",
 "files": [
   { "text": "Extended Version", "type": "link", "src": "https://arxiv.org/abs/2009.10929" }
 ]
