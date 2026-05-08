@@ -85,7 +85,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "year": "2025",
 "url": "https://www.irif.fr/_media/users/milicich/technicalnotelcbv.pdf",
 "files": [
-  { "text": "PDF", "type": "pdf", "src": "technicalnotelcbv.pdf" }
+  { "text": "PDF", "type": "pdf", "src": "files/technicalnotelcbv.pdf" }
 ]
 ```
 
@@ -102,7 +102,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "year": "16-Oct-2025",
 "url": "https://bibliotecadigital.exactas.uba.ar/collection/seminario/document/seminario_nCOM000492_Milicich",
 "files": [
-  { "text": "Thesis", "type": "pdf", "src": "milicich_mastersthesis.pdf" }
+  { "text": "Thesis", "type": "pdf", "src": "files/milicich_mastersthesis.pdf" }
 ]
 ```
 
