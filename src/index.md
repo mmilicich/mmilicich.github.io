@@ -15,6 +15,7 @@ orcid: 0009-0007-5722-2607
 dblp: https://dblp.org/pid/275/3513.html
 scholar: https://scholar.google.com/citations?user=H-dALP8AAAAJ&hl=es&oi=ao
 github: mmilicich
+gitlab: mmilicich
 footer: >-
   This website is based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io)
@@ -85,7 +86,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "year": "2025",
 "url": "https://www.irif.fr/_media/users/milicich/technicalnotelcbv.pdf",
 "files": [
-  { "text": "PDF", "type": "pdf", "src": "files/technicalnotelcbv.pdf" }
+  { "text": "PDF", "type": "pdf", "src": "/files/technicalnotelcbv.pdf" }
 ]
 ```
 
@@ -102,7 +103,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 "year": "16-Oct-2025",
 "url": "https://bibliotecadigital.exactas.uba.ar/collection/seminario/document/seminario_nCOM000492_Milicich",
 "files": [
-  { "text": "Thesis", "type": "pdf", "src": "files/milicich_mastersthesis.pdf" }
+  { "text": "Thesis", "type": "pdf", "src": "/files/milicich_mastersthesis.pdf" }
 ]
 ```
 
