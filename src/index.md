@@ -6,8 +6,8 @@ description-meta: Research Fellow University of Tartu
 location: Delta keskus, office 3023
 email: name.lastname@ut.ee
 clickable-email: false
-picture: img/profile.png
-picture-round: false
+picture: img/profile_pic.jpg
+picture-round: true
 side-by-side: true
 disable-dark-mode: true
 pronouns: she/her
