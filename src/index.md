@@ -111,7 +111,7 @@ My research interests include the λ-calculus and logic, type theory, and semant
 
 **Useful Call-by-Value**
 
-- 24-Apr-2026 - [Estonian-Latvian Computer Science Theory Days](https://theorydays.cs.ut.ee/2026/Main) - Tartu, Estonia
+- 24-Apr-2026 - [Estonian-Latvian Computer Science Theory Days](https://theorydays.cs.ut.ee/2026/Main) - Tartu, Estonia - [[slides]](https://theorydays.cs.ut.ee/uploads/2026/mariana-milicich.pdf)
 - 27-Feb-2026 - [CSL-34](https://csl2026.github.io/) - Paris, France
 - 19-Dec-2025 - Informal Seminar of the PL group (ICS) - Tartu, Estonia
 - 29-Jul-2025 - [CADE-30](https://www.dhbw-stuttgart.de/cade-30/) - Stuttgart, Germany
