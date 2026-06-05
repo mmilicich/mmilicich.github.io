@@ -110,10 +110,10 @@ My research interests include the λ-calculus and logic, type theory, and semant
 # Talks
 
 **Denotational Semantics of a Relational Lambda-Calculus**
-- 04-Jun-2026 - CS Theory Seminar - Tallinn, Estonia [[slides]](/files/2026-06-04-taltechseminar.pdf)
+- 04-Jun-2026 - CS Theory Seminar - Tallinn, Estonia - [[slides]](/files/2026-06-04-taltechseminar.pdf)
 
 **Generalised Grades for Temporal Resources**
-- 26-May-2026 - Foundations Seminar - Tartu, Estonia [[slides]](/files/2026-05-26-foundationsseminar.pdf)
+- 26-May-2026 - Foundations Seminar - Tartu, Estonia - [[slides]](/files/2026-05-26-foundationsseminar.pdf)
 
 **Useful Call-by-Value**
 
