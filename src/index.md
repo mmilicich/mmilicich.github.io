@@ -109,6 +109,12 @@ My research interests include the λ-calculus and logic, type theory, and semant
 
 # Talks
 
+**Denotational Semantics of a Relational Lambda-Calculus**
+- 04-Jun-2026 - CS Theory Seminar - Tallinn, Estonia [[slides]](/files/2026-06-04-taltechseminar.pdf)
+
+**Generalised Grades for Temporal Resources**
+- 26-May-2026 - Foundations Seminar - Tartu, Estonia [[slides]](/files/2026-05-26-foundationsseminar.pdf)
+
 **Useful Call-by-Value**
 
 - 24-Apr-2026 - [Estonian-Latvian Computer Science Theory Days](https://theorydays.cs.ut.ee/2026/Main) - Tartu, Estonia - [[slides]](https://theorydays.cs.ut.ee/uploads/2026/mariana-milicich.pdf)
